@@ -6,8 +6,8 @@
 - 💞️ Quisiera colaborar en proyectos que neecsiten unir estas dos areas o que me apoyen en mi proyecto de crear un sistema traductor de señas para los sordos
 - 📫 Puedes contactarme mediante mi correo electronico jahazielhernandezhoyoz@gmail.com
 
-Linkedin: https://www.linkedin.com/in/jahaziel-anthony-h-6586b5139/
-Portfolio: https://jahaziel.netlify.app/
+- #Linkedin: https://www.linkedin.com/in/jahaziel-anthony-h-6586b5139/
+- #Portfolio: https://jahaziel.netlify.app/
 <!---
 JahazielHernandezHoyos/JahazielHernandezHoyos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
