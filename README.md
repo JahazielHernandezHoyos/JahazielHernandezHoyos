@@ -3,8 +3,6 @@
 </div>
 
 - 👋 Hola! Soy Jahaziel Hernández 
-- 👀 Estoy interesado en el desarrollo web y la inteligencia artificial y sistemas que usen estas dos areas
-- 🌱 Actualmente sigo aprendiendo sobre Machine Learning y Data Science
 - 💞️ Quisiera colaborar en proyectos que necesiten unir estas dos areas o que me apoyen en mi proyecto de crear un sistema traductor de señas para los sordos
 - 📫 Puedes contactarme mediante mi correo electronico jahazielhernandezhoyoz@gmail.com
 
