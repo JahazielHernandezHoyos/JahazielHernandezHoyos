@@ -2,6 +2,8 @@
     <img align="center" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" alt="franalarcon_n" style="width: 100%; height: auto; transition: transform 0.3s ease-in-out;">
 </div>
 
+Mi otro github: https://github.com/jahazielhernandez
+
 - 👋 Hola! Soy Jahaziel Hernández 
 - 💞️ Quisiera colaborar en proyectos que necesiten unir estas dos areas o que me apoyen en mi proyecto de crear un sistema traductor de señas para los sordos
 - 📫 Puedes contactarme mediante mi correo electronico jahazielhernandezhoyoz@gmail.com
