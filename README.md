@@ -15,6 +15,7 @@ RAG, tools (webhooks) and decisions resolved at runtime — no rigid flows, no h
 > Open to piloting Wahi end-to-end with one company (hosting + close support, 1 month free).
 
 ### 🧠 What I do
+- Senior Software AI engineer in Baubap YC19 Fintech
 - Tech Lead Backend (most recently @ **Jump Cube Technologies**, AWS partner)
 - 4+ years building production systems · **40+ APIs**, serverless on AWS
 - Cost optimizations up to **4x** on systems moving **$80M+ USD** (Lets Do It Now / SIDOC)
